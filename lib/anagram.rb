@@ -11,6 +11,6 @@ class Anagram
     if anagram.split("").sort == self.word.split("").sort
     anagram
     end
-  end
+   end
   end
 end
